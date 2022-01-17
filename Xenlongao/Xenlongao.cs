@@ -10,6 +10,7 @@
                 int valor = Convert.ToInt32(Console.ReadLine());
                 int novoValor = (int)Math.Sqrt(valor);     
                 int resposta = valor - novoValor;
+                Console.WriteLine(resposta);
             }
         }
     }
