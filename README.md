@@ -1,4 +1,4 @@
-# DesafiosDeCodigo-Xenlongao
+# DesafiosDeCodigo
 Desafio de Matemática
 
 Kogu está buscando as esferas do dragão para invocar Xenlongão e pedir para ele reviver seu amigo Kuriri, que infelizmente morreu de novo na última batalha dos guerreiros Zê.
